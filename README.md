@@ -1,2 +1,0 @@
-# Iniciante
-remessa de execicios
